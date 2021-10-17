@@ -2,9 +2,11 @@
 .top-server-icon {
   border-radius: 100%;
 }
-.top,
+.top {
+  padding-top: 5rem !important;
+}
 .feature-row {
-  padding-top: 3rem !important;
+  padding-top: 2rem !important;
 }
 .feature-icon {
   display: inline-flex;
