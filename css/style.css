@@ -3,10 +3,10 @@
   border-radius: 100%;
 }
 .top {
-  padding-top: 4rem !important;
+  padding-top: 3rem;
 }
 .feature-row {
-  padding-top: 2rem !important;
+  padding-top: 2rem;
 }
 .feature-icon {
   display: inline-flex;
@@ -40,5 +40,8 @@
   }
   .mobile-join-btn {
     display: none;
+  }
+  .top {
+    padding-top: 5rem;
   }
 }
